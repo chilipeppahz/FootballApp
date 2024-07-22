@@ -1,0 +1,10 @@
+Redwood Rangers;Bluewave United;win
+Redwood Rangers;Golden Lions;draw
+Redwood Rangers;Ironclad Warriors;loss
+Redwood Rangers;Silverstone FC;win
+Bluewave United;Golden Lions;loss
+Bluewave United;Ironclad Warriors;win
+Bluewave United;Silverstone FC;draw
+Golden Lions;Ironclad Warriors;draw
+Golden Lions;Silverstone FC;win
+Ironclad Warriors;Silverstone FC;loss
